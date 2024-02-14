@@ -8,7 +8,7 @@ let days = document.getElementById('days');
         let mm =  document.getElementById('mm');
         let ss =  document.getElementById('ss');
 
-        let endDate = '01/01/2024 00:00:00';
+        let endDate = '03/18/2024 00:00:00';
 
         // date format in mm/dd/yyyy and time is hh:mm:ss
 
